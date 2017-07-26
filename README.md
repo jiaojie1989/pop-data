@@ -157,3 +157,7 @@ $data = new Pop\Data\Data($phpData);
 $data->serialize('csv');
 $data->outputToHttp('my-file.csv', true);
 ```
+
+# Notice
+
+This copy is used as a legacy library.
